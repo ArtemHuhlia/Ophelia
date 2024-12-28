@@ -1,0 +1,19 @@
+#Visual Studio related stuff
+.vs/
+*.VC.db
+*.VC.opendb
+*.slo
+*.lo
+*.o
+*.obj
+*.gch
+*.pch
+*.sln
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+#Intermidiate files and binaries
+Binaries/
+Intermediate/
